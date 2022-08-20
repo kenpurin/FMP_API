@@ -1,2 +1,2 @@
 # FMP_API
-https://site.financialmodelingprep.com/developer/docs/
+Financial Modeling Prep API Documentation: https://site.financialmodelingprep.com/developer/docs/
